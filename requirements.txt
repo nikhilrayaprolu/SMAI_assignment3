@@ -1,3 +1,7 @@
-altair
-pandas
 streamlit
+torch
+torchvision
+timm
+numpy
+Pillow
+plotly
